@@ -1,0 +1,19 @@
+textarea {
+  display: block;
+  width: 70%;
+  margin: 4rem 10rem;
+  height: 10vh;
+}
+button {
+  display: block;
+
+  margin: auto;
+}
+#output {
+  border: 0.1rem solid black;
+  display: block;
+  width: 70%;
+   margin: 4rem 10rem;
+
+  height: 10vh;
+}
